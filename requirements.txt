@@ -1,0 +1,30 @@
+# Core NLP
+transformers<4.37
+datasets<2.18
+sacrebleu
+rouge_score
+
+# ML / Data
+torch
+pandas
+nltk
+tqdm
+PyYAML
+matplotlib
+
+# Jupyter (PINNED)
+notebook<7
+jupyterlab<4
+pywinpty==2.0.10
+
+# AWS
+boto3
+mypy-boto3-s3
+
+# Utils
+python-box==6.0.2
+
+# API
+fastapi==0.78.0
+uvicorn==0.18.3
+jinja2==3.1.2
